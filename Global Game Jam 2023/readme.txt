@@ -1,0 +1,1 @@
+To play, extract all files from either the 7z archive or the zip file in the same folder location, and double click the play.html file to start the game. The 7z and the zip contain the same files.
